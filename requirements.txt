@@ -38,7 +38,7 @@ jmespath==0.9.4
 kaitaistruct==0.8
 kombu==4.6.5
 ldap3==2.5.2
-lxml==4.2.5
+lxml==4.6.2
 MarkupSafe==1.1.1
 mitmproxy==4.0.4
 more-itertools==7.2.0
