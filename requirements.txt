@@ -1,4 +1,4 @@
-aiohttp==3.5.4
+aiohttp==3.7.4
 aliyun-python-sdk-core==2.13.11
 aliyun-python-sdk-imagesearch==2.0.0
 amqp==2.5.1
