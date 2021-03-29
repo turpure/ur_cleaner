@@ -62,7 +62,7 @@ pycparser==2.19
 pydevd==1.6.1
 pydivert==2.1.0
 pyee==5.0.0
-Pygments==2.3.1
+Pygments==2.7.4
 pymongo==3.9.0
 pymssql==2.1.4
 PyMySQL==0.9.3
